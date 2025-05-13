@@ -1,0 +1,101 @@
+StudentID,EnrollmentDate,Program,PriorQualification,GPA,LMSLoginFrequency,SubmissionTimeliness
+1,2020-01-05,BSc Engineering ,A/L Arts,2.21,3,0.99
+2,2020-01-12,bsc computing,nan,4.77,14,2.09
+3,2020-01-19,BSc Engineering,A/L Science,2.34,12,1.67
+4,2020-01-26,bsc computing,A/L Arts,3.55,4,2.43
+5,2020-02-02,bsc computing,A/L Arts,2.6,6,1.6
+6,2020-02-09,BSc Business ,A/L Commerce,2.69,0,1.94
+7,2020-02-16,BSc Engineering,A/L Science,3.18,2,2.25
+8,2020-02-23,BSc Engineering,A/L Arts,2.12,1,2.43
+9,2020-03-01,BSc Engineering,nan,2.6,8,1.4
+10,2020-03-08,bsc computing,nan,2.91,9,1.83
+11,2020-03-15,BSc Engineering ,A/L Commerce,2.49,14,1.76
+12,2020-03-22,BSc Engineering,A/L Arts,2.51,5,1.67
+13,2020-03-29,bsc computing,A/L Science,3.65,9,2.88
+14,2020-04-05,BSc Business ,nan,3.6,2,2.2
+15,2020-04-12,BSc Engineering ,A/L Arts,2.73,7,1.37
+16,2020-04-19,BSc Business ,A/L Arts,2.95,13,2.46
+17,2020-04-26,BSc Engineering ,A/L Commerce,3.74,7,3.06
+18,2020-05-03,bsc computing,nan,2.14,1,2.52
+19,2020-05-10,BSc Computing,nan,3.2,14,1.24
+20,2020-05-17,,A/L Science,4.18,5,1.76
+21,2020-05-24,BSc Business ,nan,4.18,6,2.63
+22,2020-05-31,bsc computing,A/L Science,1.84,1,1.65
+23,2020-06-07,BSc Engineering ,nan,2.54,14,2.22
+24,2020-06-14,BSc Computing,A/L Commerce,3.1,10,2.39
+25,2020-06-21,BSc Computing,nan,2.21,9,1.54
+26,2020-06-28,BSc Engineering,A/L Science,5.0,1,1.97
+27,2020-07-05,BSc Engineering,A/L Science,2.92,9,0.38
+28,2020-07-12,BSc Business ,A/L Commerce,3.84,0,1.49
+29,2020-07-19,BSc Engineering ,nan,2.97,7,1.87
+30,2020-07-26,BSc Engineering ,nan,5.0,0,1.38
+31,2020-08-02,BSc Engineering,A/L Commerce,3.31,8,2.82
+32,2020-08-09,BSc Engineering ,nan,3.33,10,1.28
+33,2020-08-16,BSc Engineering ,nan,3.02,5,1.78
+34,2020-08-23,BSc Computing,A/L Science,5.0,6,2.07
+35,2020-08-30,BSc Engineering,nan,3.47,12,2.72
+36,2020-09-06,bsc computing,nan,3.26,9,1.28
+37,2020-09-13,BSc Engineering,A/L Commerce,2.34,6,2.58
+38,2020-09-20,bsc computing,A/L Commerce,2.59,9,2.01
+39,2020-09-27,BSc Computing,A/L Arts,3.53,2,1.51
+40,2020-10-04,BSc Business ,A/L Science,3.36,1,2.23
+41,2020-10-11,,nan,2.57,8,2.1
+42,2020-10-18,BSc Computing,nan,2.84,7,1.7
+43,2020-10-25,BSc Engineering ,A/L Arts,2.91,12,2.03
+44,2020-11-01,BSc Business ,nan,3.37,11,1.81
+45,2020-11-08,BSc Business ,A/L Science,3.75,9,2.06
+46,2020-11-15,BSc Computing,A/L Arts,3.04,6,2.33
+47,2020-11-22,BSc Business ,A/L Science,3.7,8,2.79
+48,2020-11-29,bsc computing,A/L Arts,3.52,3,1.38
+49,2020-12-06,BSc Business ,A/L Arts,3.12,12,3.07
+50,2020-12-13,BSc Engineering ,A/L Commerce,2.13,3,1.02
+51,2020-12-20,BSc Engineering ,A/L Science,5.0,0,1.92
+52,2020-12-27,BSc Engineering ,nan,3.44,7,2.29
+53,2021-01-03,BSc Engineering ,nan,1.97,13,2.14
+54,2021-01-10,bsc computing,A/L Science,3.07,13,1.69
+55,2021-01-17,BSc Engineering,nan,3.6,11,1.9
+56,2021-01-24,BSc Computing,nan,3.09,2,1.75
+57,2021-01-31,BSc Engineering ,A/L Science,2.64,6,1.71
+58,2021-02-07,BSc Business ,A/L Arts,2.49,14,2.42
+59,2021-02-14,BSc Engineering ,A/L Science,3.49,11,2.18
+60,2021-02-21,BSc Business ,A/L Arts,3.28,1,1.65
+61,2021-02-28,BSc Business ,nan,2.83,1,2.45
+62,2021-03-07,BSc Engineering ,nan,3.64,6,2.15
+63,2021-03-14,bsc computing,nan,3.51,14,2.41
+64,2021-03-21,BSc Business ,A/L Commerce,4.07,5,2.31
+65,2021-03-28,BSc Business ,A/L Arts,3.34,2,1.59
+66,2021-04-04,BSc Engineering ,A/L Commerce,2.9,8,1.72
+67,2021-04-11,BSc Business ,A/L Commerce,2.91,9,2.37
+68,2021-04-18,BSc Business ,A/L Science,1.84,14,2.31
+69,2021-04-25,BSc Engineering ,A/L Commerce,3.09,13,1.99
+70,2021-05-02,BSc Engineering ,A/L Science,2.99,12,2.06
+71,2021-05-09,BSc Computing,A/L Science,2.2,5,2.64
+72,2021-05-16,bsc computing,A/L Commerce,2.98,9,1.7
+73,2021-05-23,bsc computing,A/L Arts,3.81,9,2.27
+74,2021-05-30,BSc Business ,A/L Arts,2.56,5,1.9
+75,2021-06-06,bsc computing,A/L Arts,2.42,0,1.89
+76,2021-06-13,BSc Business ,A/L Arts,3.66,3,2.55
+77,2021-06-20,BSc Computing,A/L Arts,3.38,9,2.41
+78,2021-06-27,BSc Engineering ,A/L Commerce,4.84,5,2.41
+79,2021-07-04,BSc Engineering ,A/L Commerce,2.21,14,2.65
+80,2021-07-11,BSc Engineering ,nan,3.43,5,2.01
+81,2021-07-18,bsc computing,A/L Arts,3.19,10,2.34
+82,2021-07-25,BSc Computing,A/L Commerce,3.04,11,1.84
+83,2021-08-01,bsc computing,nan,3.55,4,2.16
+84,2021-08-08,bsc computing,A/L Arts,2.98,0,1.93
+85,2021-08-15,BSc Computing,A/L Science,1.84,7,2.05
+86,2021-08-22,BSc Computing,nan,2.49,4,2.3
+87,2021-08-29,BSc Computing,A/L Commerce,3.82,11,1.59
+88,2021-09-05,,A/L Science,3.7,11,3.05
+89,2021-09-12,,A/L Science,2.78,11,1.5
+90,2021-09-19,BSc Engineering,A/L Science,3.3,4,1.39
+91,2021-09-26,,nan,4.67,6,2.58
+92,2021-10-03,BSc Computing,A/L Commerce,2.98,3,2.4
+93,2021-10-10,BSc Engineering,A/L Science,5.0,5,2.31
+94,2021-10-17,BSc Engineering,A/L Arts,3.11,12,2.31
+95,2021-10-24,BSc Computing,A/L Science,3.36,3,1.99
+96,2021-10-31,BSc Engineering,A/L Science,2.79,13,1.55
+97,2021-11-07,bsc computing,nan,3.36,14,2.04
+98,2021-11-14,BSc Business ,nan,1.83,2,1.66
+99,2021-11-21,BSc Business ,A/L Commerce,3.2,6,2.49
+100,2021-11-28,BSc Computing,A/L Arts,3.03,7,1.93
